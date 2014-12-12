@@ -5,7 +5,7 @@ A basic skeleton application for a Java application that calls Clojure, with the
 features:
 
 - uses the [Gradle](https://www.gradle.org/) build tool
-- uses the [clojuresqe](https://github.com/clojuresque/clojuresque) Gradle plugin
+- uses the [clojuresque](https://github.com/clojuresque/clojuresque) Gradle plugin
 - main() is in Java
 - includes local Java files
 - includes non-compiled local Clojure files
