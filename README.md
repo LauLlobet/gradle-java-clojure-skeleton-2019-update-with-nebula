@@ -17,7 +17,8 @@ features:
 
 To use:
 ```
-$ gradle run
+$ gradle wrapper --gradle-version 4.1
+$ ./gradlew run
 ```
 
 
